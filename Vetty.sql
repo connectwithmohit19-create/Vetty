@@ -144,4 +144,4 @@ FROM (
   FROM transactions
 ) t
 WHERE rn = 2
-ORDER BY buyer_id;
+ORDER BY buyer_id:
